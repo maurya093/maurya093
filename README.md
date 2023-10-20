@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @maurya093
 - 🌱 I’m currently pursuing my Btech. from SPIT, Mumbai. 
-- 📫 How to reach me : [mail](mauryapatel093@gmail.com)
+- 📫 How to reach me : mauryapatel093@gmail.com
+
   
                          
 
