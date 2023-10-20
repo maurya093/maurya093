@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @maurya093
-- 👀 I’m interested in ...game development, cyber security.
-- 🌱 I’m currently learning ...python programming language.
-- 💞️ I’m looking to collaborate on ...basis of C++
-- 📫 How to reach me ...LinkedIn - https://www.linkedin.com/in/mauryapatel28/
+- 🌱 I’m currently pursuing my Btech. from SPIT, Mumbai. 
+- 📫 How to reach me : [mail](mauryapatel093@gmail.com)
+  
                          
 
 <!---
